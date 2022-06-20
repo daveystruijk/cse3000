@@ -1,0 +1,12 @@
+We are conducting an academic study about the usefulness of webcam-based eye-tracking when working on micro-tasks. Should you accept this task, you will complete a set of image classification tasks using either your keyboard or your eyes (with a webcam). We only collect information about timing and accuracy, and webcam data will NOT be sent over the internet.
+
+Requirements for this task:
+
+- This task can be completed on a desktop computer only
+- You must have a webcam
+- The room should be bright enough that your eyes are reasonably visible 
+
+By finishing this task, you agree that the collected information will be used in an academic study performed by the Delft University of Technology.
+
+Make sure to leave this window open as you complete the survey. When you are finished, you will return to this page to paste the code into the box.
+

@@ -1,0 +1,26 @@
+service: eye-tracking-study
+frameworkVersion: '3'
+
+plugins:
+  - serverless-offline
+
+provider:
+  name: aws
+  runtime: nodejs14.x
+  region: eu-central-1
+
+functions:
+  api:
+    handler: api.handler
+    events:
+      - httpApi: '*'
+
+custom:
+  serverless-offline:
+    # WebGazer.js requires https
+    httpsProtocol: "dev_cert"
+
+package:
+  patterns:
+    # For packaging, just including frontend/dist is enough
+    - '!frontend/node_modules/**'
