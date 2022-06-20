@@ -1,0 +1,50 @@
+"gender"
+"Gender"
+
+"age"
+"Age"
+
+"experience"
+"What is your experience level on micro-task crowdsourcing platforms? (such as Prolific)"
+
+"PU-S1"
+'"I felt frustrated while using this application."'
+
+"PU-S2"
+'"I found this application confusing to use."'
+
+"PU-S3"
+'"Using this application was taxing."'
+
+"RW-S1"
+'"Using this application was worthwhile."'
+
+"RW-S2"
+'"My experience was rewarding."'
+
+"RW-S3"
+'"I felt interested in this experience."'
+
+"TLX-1"
+"Mental Demand"
+"How much mental and perceptual activity was required (e.g. thinking, deciding, calculating, remembering, looking, searching, etc.)? Was the task easy or demanding, simple or complex, exacting or forgiving?"
+
+"TLX-2"
+"Physical Demand"
+"How much physical activity was required (e.g. pushing, pulling, turning, controlling, activating, etc.)? Was the task easy or demanding, slow or brisk, slack or strenous, restful or laborious?"
+
+"TLX-3"
+"Temporal Demand"
+"How much time pressure did you feel due to the rate at which the tasks occured? Was the pace slow and leisurly or rapid and frantic?"
+
+"TLX-4"
+"Performance"
+"How successful do you think you were in accomplishing the goals of this task? How satisfied were you with your performance in accomplishing these goals?"
+
+"TLX-5"
+"Effort"
+"How hard did you have to work (mentally and physically) to accomplish your level of performance?"
+
+"TLX-6"
+"Frustration Level"
+"How insecure, discouraged, irritated, stressed and annoyed vs. secure, gratified, content, relaxed, and complacent did you feel during the task?"
